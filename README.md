@@ -1,11 +1,12 @@
-# Data Scientist
+# Mechanical Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+- Integrated Master in Mechanical Engineering | The National Technical University of Athens, Athens, Greece - NTUA (_Sept. 2018 – Oct. 2023_)	 
+	- Grade: 9.14/10 “EXCELLENT” (Ranked 5th among 162 graduates of the year 2023) 
+			        		
+- High School | The 8th High School of Amarousio  (_Sept. 2015 – June 2018_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
