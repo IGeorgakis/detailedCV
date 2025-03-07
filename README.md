@@ -3,8 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education							       		
-- Integrated Master in Mechanical Engineering, (5-year degree; 300 ECTS) | The National Technical University of Athens, Athens, Greece - NTUA (_Sept. 2018 – Oct. 2023_)	 
-	- Grade: 9.14/10 “EXCELLENT” (Ranked 5th among 162 graduates of the year 2023) 
+- Integrated Master in Mechanical Engineering, (5-year degree; 300 ECTS) | The National Technical University of Athens, Athens, Greece - NTUA (_Sept. 2018 – Oct. 2023_)	 - Grade: 9.14/10 “EXCELLENT” (Ranked 5th among 162 graduates of the year 2023) 
 			        		
 - High School | The 8th High School of Amarousio  (_Sept. 2015 – June 2018_)
 
